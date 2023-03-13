@@ -1,11 +1,11 @@
-# HonKitiOS逆向开发：越狱包管理器演示
+# iOS逆向开发：越狱包管理器
 
 * 最新版本：`v0.6`
 * 更新时间：`20230313`
 
 ## 简介
 
-介绍iOS越狱后，常需要包管理器来安装插件。先是对于包管理器进行概述；再分别详细介绍常用的包管理器：Cydia、Sileo等。
+介绍iOS越狱后，常需要包管理器来安装插件。先是对于包管理器进行概述；再分别详细介绍常用的包管理器：Cydia、Sileo等。以及其他一些常见的越狱插件的介绍。
 
 ## 源码+浏览+下载
 
@@ -13,7 +13,7 @@
 
 ### HonKit源码
 
-* [crifan/ios_re_package_manager: HonKitiOS逆向开发：越狱包管理器演示](https://github.com/crifan/ios_re_package_manager)
+* [crifan/ios_re_package_manager: iOS逆向开发：越狱包管理器](https://github.com/crifan/ios_re_package_manager)
 
 #### 如何使用此HonKit源码去生成发布为电子书
 
@@ -21,14 +21,14 @@
 
 ### 在线浏览
 
-* [HonKitiOS逆向开发：越狱包管理器演示 book.crifan.org](https://book.crifan.org/books/ios_re_package_manager/website/)
-* [HonKitiOS逆向开发：越狱包管理器演示 crifan.github.io](https://crifan.github.io/ios_re_package_manager/website/)
+* [iOS逆向开发：越狱包管理器 book.crifan.org](https://book.crifan.org/books/ios_re_package_manager/website/)
+* [iOS逆向开发：越狱包管理器 crifan.github.io](https://crifan.github.io/ios_re_package_manager/website/)
 
 ### 离线下载阅读
 
-* [HonKitiOS逆向开发：越狱包管理器演示 PDF](https://book.crifan.org/books/ios_re_package_manager/pdf/ios_re_package_manager.pdf)
-* [HonKitiOS逆向开发：越狱包管理器演示 ePub](https://book.crifan.org/books/ios_re_package_manager/epub/ios_re_package_manager.epub)
-* [HonKitiOS逆向开发：越狱包管理器演示 Mobi](https://book.crifan.org/books/ios_re_package_manager/mobi/ios_re_package_manager.mobi)
+* [iOS逆向开发：越狱包管理器 PDF](https://book.crifan.org/books/ios_re_package_manager/pdf/ios_re_package_manager.pdf)
+* [iOS逆向开发：越狱包管理器 ePub](https://book.crifan.org/books/ios_re_package_manager/epub/ios_re_package_manager.epub)
+* [iOS逆向开发：越狱包管理器 Mobi](https://book.crifan.org/books/ios_re_package_manager/mobi/ios_re_package_manager.mobi)
 
 ## 版权和用途说明
 
