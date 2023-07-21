@@ -15,6 +15,6 @@ TODO：
 
 但是进入后，全部是空的
 
-没有想要安装的插件：iCleaner Pro
+没有想要安装的插件：`iCleaner Pro`
 
-但此时去搜索，也是可以搜到 `iCleaner Pro`的，即可正常继续安装iCleaner Pro了。
+但此时去搜索，也是可以搜到 `iCleaner Pro`的，即可正常继续安装`iCleaner Pro`了。
