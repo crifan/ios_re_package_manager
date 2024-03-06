@@ -1,7 +1,7 @@
 {
-  "latestVersion": "v1.0",
-  "lastUpdate": "20230721",
+  "latestVersion": "v1.2",
+  "lastUpdate": "20240305",
   "gitRepoName": "ios_re_package_manager",
   "bookName": "iOS逆向开发：越狱包管理器",
-  "bookDescription": "介绍iOS越狱后，常需要包管理器来安装插件。先是对于包管理器进行概述；再分别详细介绍常用的包管理器：Cydia、Sileo等。以及其他一些常见的越狱插件的介绍。"
+  "bookDescription": "介绍iOS越狱后，常需要包管理器来安装插件。先是对于包管理器进行概述；再分别详细介绍常用的包管理器：Cydia、Sileo等。以及关于插件的介绍。"
 }
