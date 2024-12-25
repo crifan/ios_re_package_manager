@@ -7,4 +7,4 @@
       * `iOS 15+`的：[XinaA15](https://book.crifan.org/books/ios_re_ios15_jailbreak/website/xinaa15/)（越狱后自动安装了`Sileo Nightly`）
   * 从`Cydia`中手动安装
     * 举例
-      * [Unc0ver](https://book.crifan.org/books/ios_re_iphone_jailbreak/website/doing_jailbreak/do_jailbreak/unc0ver.html)越狱后，去`Cydia`中添加源地址 https://repo.getsileo.app ，继续搜索和安装`Sileo`即可
+      * [Unc0ver](https://book.crifan.org/books/ios_re_iphone_jailbreak/website/doing_jailbreak/do_jailbreak/unc0ver/)越狱后，去`Cydia`中添加源地址 https://repo.getsileo.app ，继续搜索和安装`Sileo`即可

@@ -1,13 +1,5 @@
 # Cydia
 
-TODO：
-
-* 【记录】已越狱的iOS中的Cydia的情况：已安装源和插件
-* 【已解决】已越狱iPhone中Cydia中安装Cydia Substrate
-* 【未解决】Cydia安装BigBoss源的iFile出错：无法购买Cydia is not yet prepared to accept money
-
----
-
 * `Cydia` = `Cydia Installer`
   * 概述
     * `iOS <15.0`=之前：最常用的越狱包管理器（之一）
